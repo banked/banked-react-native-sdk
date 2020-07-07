@@ -1,0 +1,12 @@
+{
+  "name": "BankedCheckout",
+  "displayName": "BankedCheckout",
+  "expo": {
+    "name": "BankedCheckout",
+    "slug": "BankedCheckout",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
