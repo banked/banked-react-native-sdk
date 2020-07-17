@@ -1,0 +1,6 @@
+module Pods_BankedCheckout {
+  umbrella header "Pods-BankedCheckout-umbrella.h"
+
+  export *
+  module * { export * }
+}

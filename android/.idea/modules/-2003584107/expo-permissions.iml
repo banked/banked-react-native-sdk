@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":expo-permissions" external.linked.project.path="$MODULE_DIR$/../../../../node_modules/expo-permissions/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="host.exp.exponent" external.system.module.version="9.0.1" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":expo-permissions" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="3.5.3" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="3.5.3" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/res;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/res;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/res;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/res;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/res;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.3.50/50ad05ea1c2595fb31b800e76db464d08d599af3/kotlin-stdlib-jdk7-1.3.50.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/7091e3e9a884952c83e7dcbac03cd047/jetified-react-native-0.63.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/567a44e7514d1fc13f926b63a794a27b/appcompat-1.0.2-api.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.50/b529d1738c7e98bbfa36a4134039528f2ce78ebf/kotlin-stdlib-1.3.50.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.50/3d9cd3e1bc7b92e95f43d45be3bfbcf38e36ab87/kotlin-stdlib-common-1.3.50.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/a2689076661786d6e58c8ee8433a52c8/fragment-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/bba697f0f8a343895f84d4945cc42b4d/vectordrawable-animated-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/a5f84e346484a0f7b0a496a469139fee/legacy-support-core-ui-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/d69493a30b7c7877322970ced85d7ca7/legacy-support-core-utils-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/5d0bfcc90c9793beb5f8e3c3fd73a3d6/vectordrawable-1.0.1-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/4a0710be7138d0c2a5bdd482be0bfb2a/swiperefreshlayout-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/31f425658e27eba8d3840570a726dc10/loader-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/8976a8e2626b05e680ae6a37831ad0bc/viewpager-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/96e77250546926ddb759c4a76302f915/coordinatorlayout-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/30c732b6f2903d426e46819cb449f996/drawerlayout-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/e639a58fe5b49cde78212af54eef5ef0/slidingpanelayout-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/c3b3ec9e2f5797284ce5c65a5ebf54d0/customview-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/aff0bc3637ad279f310830926d43092c/asynclayoutinflater-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/678137a4e09cf3aa9dafa291f1249147/core-1.0.1-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/beb58a56793615b123ae30d64b7ca286/versionedparcelable-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/50366504ebdf68232cbf5ac7354cebb1/cursoradapter-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/db44e080cb0bd5b927a35c9be3c76318/lifecycle-runtime-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/d3a1c29f66e251c4b6398f2f78f3dc2c/documentfile-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/00e01200fd6a15910ed8c363c116a284/localbroadcastmanager-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/42ee50e088c2378a4de646d5af018032/print-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/051c0c5d922a54dba070f68806c0f915/lifecycle-viewmodel-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/8e17d393b6012fe37fb9fbd85baf3b51/interpolator-1.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/29225ee8df652069f5badb1dac54184c/lifecycle-livedata-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/3666b53179ad046ffb52c142bc00741c/lifecycle-livedata-core-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/1646ae3f674e9212541f7a3210fe06ab/core-runtime-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/45599f2cd5965ac05a1488fa2a5c0cdd7c499ead/annotation-1.0.0.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.facebook.infer.annotation/infer-annotation/0.11.2/f514ff4ca022a579d9cf7524846988b646ae4491/infer-annotation-0.11.2.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.facebook.yoga/proguard-annotations/1.14.1/3d015bb821875657ac8e4b808a223aae339defb2/proguard-annotations-1.14.1.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/cde99e2a97fdfed339fe68dd35d5303f/fresco-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/2666cb97cf39ad475193d09300f7a4b3/imagepipeline-okhttp3-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/1de709ab3a046442aad4d0b0cabb3dd7/soloader-0.8.2-api.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.12.1/f689d3657c3f1fdbde4877bcddc668491a4ad46f/okhttp-urlconnection-3.12.1.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.12.1/dc6d02e4e68514eff5631963e28ca7742ac69efe/okhttp-3.12.1.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.15.0/bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8/okio-1.15.0.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.facebook.fbjni/fbjni-java-only/0.0.3/c4540aecb99b9ec380acef6c10bb6f700de8ac2c/fbjni-java-only-0.0.3.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/85710149c5df320852fe163856d85197/jetified-fbcore-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/b180e971169d2b44bb0820203948f83d/drawee-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/45274c69187ea9cc64a0fefbb6efb0e5/imagepipeline-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/af4f8375f3821c97e378fce33480b192/nativeimagefilters-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/a2abfbe535ff855d05c176222168b5e7/nativeimagetranscoder-2.0.0-api.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/d5cbe0d6639daa572a27a585b0f0d68c/annotation-0.8.2-api.jar:/Users/kristinaborisova/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/nativeloader/0.8.2/86cb3da9384707034355ac1e84e9a8cf6de80f7c/nativeloader-0.8.2.jar:/Users/kristinaborisova/.gradle/caches/transforms-2/files-2.1/4951b99135854a0ac8bf937e733b532f/imagepipeline-base-2.0.0-api.jar:/Users/kristinaborisova/Library/Android/sdk/platforms/android-28/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="expo-permissions_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/aidl_source_output_dir/debug/compileDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/renderscript_source_output_dir/debug/compileDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/rs/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/resValues/debug" type="java-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/ap_generated_sources/debugAndroidTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/aidl_source_output_dir/debugAndroidTest/compileDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/source/buildConfig/androidTest/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/renderscript_source_output_dir/debugAndroidTest/compileDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/rs/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/res/resValues/androidTest/debug" type="java-test-resource" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build/generated/ap_generated_sources/debugUnitTest/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/expo-permissions/android/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50@jar" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.infer.annotation:infer-annotation:0.11.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.yoga:proguard-annotations:1.14.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp-urlconnection:3.12.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.12.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.15.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fbjni:fbjni-java-only:0.0.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:nativeloader:0.8.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.react:react-native:0.63.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fresco:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-okhttp3:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:soloader:0.8.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fbcore:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:drawee:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagefilters:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:annotation:0.8.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-base:2.0.0@aar" level="project" />
+    <orderEntry type="module" module-name="unimodules-permissions-interface" />
+    <orderEntry type="module" module-name="unimodules-core" />
+  </component>
+</module>
