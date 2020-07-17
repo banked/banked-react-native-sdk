@@ -1,4 +1,4 @@
-# banked-node
+# rn-banked-checkout
 
 [![Version](https://img.shields.io/npm/v/@banked/node)](https://www.npmjs.com/package/@banked/rn-banked-checkout)
 
