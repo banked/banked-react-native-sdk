@@ -14,6 +14,8 @@ npm install @banked/rn-banked-checkout
 yarn add @banked/rn-banked-checkout
 ```
 
+Link the dependencies
+
 ```
 react-native link @banked/rn-banked-checkout
 # or
