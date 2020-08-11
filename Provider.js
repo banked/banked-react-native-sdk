@@ -1,12 +1,12 @@
 import React from 'react';
-import { StyleSheet, View, Text, Image, Pressable } from 'react-native';
+import { StyleSheet, View, Text, Image, TouchableOpacity } from 'react-native';
 import {UNAVAILABLE} from './strings';
 
 const Provider = ({
   title, logo, id, status, statusDetail, onPress
 }) => {
   return(
-  <Pressable
+  <TouchableOpacity
   onPress={() => onPress(id)}>
     <View style={styles.container}>
       <View style={styles.imageContainer}>
@@ -22,7 +22,7 @@ const Provider = ({
         )}
       </View>
     </View>
-  </Pressable>
+  </TouchableOpacity>
 )
 };
 
