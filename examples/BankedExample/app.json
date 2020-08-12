@@ -1,0 +1,12 @@
+{
+  "name": "BankedExample",
+  "displayName": "BankedExample",
+  "expo": {
+    "name": "BankedExample",
+    "slug": "BankedExample",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
