@@ -34,9 +34,13 @@ Add the Checkout component to your code
 
 ```
 <Checkout paymentId = {YOUR_PAYMENT_ID}
-                  apiKey = {YOUR_API_KEY}
+                  apiKey = {YOUR_CLIENT_KEY}
                   onCancel={YOUR_CANCEL_HANDLER}/>
 ```
+
+`YOUR_PAYMENT_ID` is the id you received when creating the payment (see https://developer.banked.com/reference#getting-started-with-your-api)  
+`YOUR_CLIENT_KEY` is the key you can retrieve from the console: https://console.banked.com/client_keys  
+
 
 ## License
 
