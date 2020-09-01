@@ -117,6 +117,7 @@ const styles = StyleSheet.create({
     color: '#292929',
     fontSize: 14,
     textAlign: 'center',
+    fontFamily: 'Hermes-RegularCond',
     lineHeight: 22
   },
   payNowContainer: {

@@ -15,7 +15,6 @@
 		96905EF65AED1B983A6B3ABC /* libPods-BankedExample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58EEBF8E8E6FB1BC6CAF49B5 /* libPods-BankedExample.a */; };
 		BB2F792D24A3F905000567C9 /* Expo.plist in Resources */ = {isa = PBXBuildFile; fileRef = BB2F792C24A3F905000567C9 /* Expo.plist */; };
 		CF05BE5E28754B81868FC197 /* Hermes-RegularCond.otf in Resources */ = {isa = PBXBuildFile; fileRef = 97B7D7080C1E4ECEBB6C1A9A /* Hermes-RegularCond.otf */; };
-		F94A35C12A0048938732C44D /* Hermes-LightCond.otf in Resources */ = {isa = PBXBuildFile; fileRef = CA789FEFF11C4A1184EA1AB1 /* Hermes-LightCond.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +32,6 @@
 		97B7D7080C1E4ECEBB6C1A9A /* Hermes-RegularCond.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hermes-RegularCond.otf"; path = "../node_modules/@banked/rn-banked-checkout/assets/fonts/Hermes-RegularCond.otf"; sourceTree = "<group>"; };
 		AA286B85B6C04FC6940260E9 /* SplashScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = SplashScreen.storyboard; path = BankedExample/SplashScreen.storyboard; sourceTree = "<group>"; };
 		BB2F792C24A3F905000567C9 /* Expo.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Expo.plist; sourceTree = "<group>"; };
-		CA789FEFF11C4A1184EA1AB1 /* Hermes-LightCond.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Hermes-LightCond.otf"; path = "../node_modules/@banked/rn-banked-checkout/assets/fonts/Hermes-LightCond.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -109,7 +107,6 @@
 		B13DFBC3F34240368F0BAC41 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				CA789FEFF11C4A1184EA1AB1 /* Hermes-LightCond.otf */,
 				97B7D7080C1E4ECEBB6C1A9A /* Hermes-RegularCond.otf */,
 			);
 			name = Resources;
@@ -197,7 +194,6 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				3E461D99554A48A4959DE609 /* SplashScreen.storyboard in Resources */,
-				F94A35C12A0048938732C44D /* Hermes-LightCond.otf in Resources */,
 				CF05BE5E28754B81868FC197 /* Hermes-RegularCond.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
